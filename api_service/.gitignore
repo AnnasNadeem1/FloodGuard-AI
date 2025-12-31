@@ -1,0 +1,8 @@
+__pycache__/
+venv/
+.env
+# Ignore large model files
+*.pth
+*.safetensors
+*.bin
+/models
