@@ -36,6 +36,12 @@ Before running the project, ensure you have the following installed:
 - Python (v3.8+)
 - MongoDB (Running locally on port 27017)
 
+## Contributors
+- Muhammad Annas 
+- Muhammad Usman Iqbal  
+- Muhammad Ahsan  
+ 
+
 ## Installation & Setup
 
 ### 1. Clone the Repository
