@@ -1,7 +1,7 @@
 
 # FloodGuard AI
 
-FloodGuard AI is a full-stack disaster management application designed to assess flood severity using Artificial Intelligence. It integrates Computer Vision (ResNet18) and Natural Language Processing (DistilBERT) to analyze user-uploaded images and text descriptions, providing a severity assessment (Severe, Moderate, or None).
+FloodGuard AI is a full-stack disaster management application designed to assess flood severity using Artificial Intelligence. It integrates Computer Vision (ResNet18) and Natural Language Processing (DistilBERT) to analyze user-uploaded images and text descriptions, providing a severity assessment (Severe, Moderate, or None!).
 
 ## Features
 
